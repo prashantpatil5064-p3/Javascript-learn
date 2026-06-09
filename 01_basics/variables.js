@@ -17,3 +17,5 @@ accountCity = "kagal"
 
 console.log(accountId);
 console.table([accountId, accontEmail, accountPwd,accountCity])
+console.table([accountId, accontEmail, accountPwd,accountCity])
+// trtying git push 
